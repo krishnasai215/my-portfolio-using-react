@@ -1,0 +1,10 @@
+.parallax {
+    
+    background-image: url("/src/components/web_walls3.jpg"); 
+    min-height: 700px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
